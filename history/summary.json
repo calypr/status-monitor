@@ -1,25 +1,5 @@
 [
   {
-    "name": "CALYPR (external)",
-    "url": "calypr.ohsu.edu",
-    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
-    "slug": "calypr-external",
-    "status": "down",
-    "uptime": "0.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2025-07-30": 0
-    }
-  },
-  {
     "name": "CALYPR (public)",
     "url": "calypr-public.ohsu.edu",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
@@ -30,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 14962,
-    "timeDay": 14962,
-    "timeWeek": 14962,
-    "timeMonth": 14962,
-    "timeYear": 14962,
+    "time": 7888,
+    "timeDay": 7888,
+    "timeWeek": 7888,
+    "timeMonth": 7888,
+    "timeYear": 7888,
     "dailyMinutesDown": {}
   }
 ]
