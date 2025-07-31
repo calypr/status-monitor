@@ -1,20 +1,20 @@
 [
   {
-    "name": "FHIR-Aggregator",
-    "url": "https://fhir-aggregator.org/",
-    "icon": "https://icons.duckduckgo.com/ip3/fhir-aggregator.org.ico",
-    "slug": "fhir-aggregator",
+    "name": "CALYPR (public)",
+    "url": "calypr-public.ohsu.edu",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "slug": "calypr-public",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 361,
-    "timeDay": 361,
-    "timeWeek": 361,
-    "timeMonth": 361,
-    "timeYear": 361,
+    "time": 2728,
+    "timeDay": 593,
+    "timeWeek": 2728,
+    "timeMonth": 2728,
+    "timeYear": 2728,
     "dailyMinutesDown": {}
   }
 ]
