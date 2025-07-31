@@ -4,17 +4,17 @@
     "url": "https://fhir-aggregator.org/",
     "icon": "https://icons.duckduckgo.com/ip3/fhir-aggregator.org.ico",
     "slug": "fhir-aggregator",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 456,
-    "timeDay": 456,
-    "timeWeek": 456,
-    "timeMonth": 456,
-    "timeYear": 456,
+    "time": 361,
+    "timeDay": 361,
+    "timeWeek": 361,
+    "timeMonth": 361,
+    "timeYear": 361,
     "dailyMinutesDown": {}
   }
 ]
