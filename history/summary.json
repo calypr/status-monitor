@@ -4,19 +4,19 @@
     "url": "calypr-public.ohsu.edu",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "calypr-public",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 3948,
-    "timeDay": 389,
-    "timeWeek": 6354,
-    "timeMonth": 4203,
-    "timeYear": 3948,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "97.78%",
+    "uptimeWeek": "99.68%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.96%",
+    "time": 3909,
+    "timeDay": 738,
+    "timeWeek": 5695,
+    "timeMonth": 4102,
+    "timeYear": 3909,
     "dailyMinutesDown": {
-      "2025-10-03": 0
+      "2025-10-03": 32
     }
   }
 ]
