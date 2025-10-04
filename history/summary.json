@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "calypr-public",
     "status": "up",
-    "uptime": "99.96%",
+    "uptime": "99.97%",
     "uptimeDay": "97.78%",
     "uptimeWeek": "99.68%",
     "uptimeMonth": "99.93%",
-    "uptimeYear": "99.96%",
-    "time": 3909,
-    "timeDay": 738,
-    "timeWeek": 5695,
-    "timeMonth": 4102,
-    "timeYear": 3909,
+    "uptimeYear": "99.97%",
+    "time": 3858,
+    "timeDay": 665,
+    "timeWeek": 5655,
+    "timeMonth": 3642,
+    "timeYear": 3858,
     "dailyMinutesDown": {
       "2025-10-03": 32
     }
