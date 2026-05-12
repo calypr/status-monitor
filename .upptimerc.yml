@@ -6,8 +6,6 @@ sites:
     url: calypr.org
   - name: CALYPR (public)
     url: calypr-public.ohsu.edu
-  - name: 404 test (expect error)
-    url: https://ohsu-comp-bio.github.io/funnel
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
