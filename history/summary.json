@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 405,
-    "timeDay": 325,
+    "time": 396,
+    "timeDay": 321,
     "timeWeek": 310,
-    "timeMonth": 405,
-    "timeYear": 405,
+    "timeMonth": 396,
+    "timeYear": 396,
     "dailyMinutesDown": {}
   },
   {
@@ -28,31 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 4097,
-    "timeDay": 428,
-    "timeWeek": 2408,
-    "timeMonth": 4518,
-    "timeYear": 4097,
+    "time": 4133,
+    "timeDay": 5142,
+    "timeWeek": 3929,
+    "timeMonth": 4832,
+    "timeYear": 4133,
     "dailyMinutesDown": {}
-  },
-  {
-    "name": "404 test (expect error)",
-    "url": "https://ohsu-comp-bio.github.io/funnel",
-    "icon": "https://icons.duckduckgo.com/ip3/ohsu-comp-bio.github.io.ico",
-    "slug": "404-test-expect-error",
-    "status": "down",
-    "uptime": "51.07%",
-    "uptimeDay": "51.07%",
-    "uptimeWeek": "51.07%",
-    "uptimeMonth": "51.07%",
-    "uptimeYear": "51.07%",
-    "time": 58,
-    "timeDay": 58,
-    "timeWeek": 58,
-    "timeMonth": 58,
-    "timeYear": 58,
-    "dailyMinutesDown": {
-      "2026-05-12": 0
-    }
   }
 ]
